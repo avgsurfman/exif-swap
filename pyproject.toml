@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Exif-swap"
+version = "0.0.1"
+authors = [
+  { name="avg_surfman", email="genericairconditionerno.169@gmail.com" },
+]
+description = "A simple utility for importing creation time from the filename to its EXIF, or vice-versa."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["piexif"]
+license = {text = "LICENSE.txt"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/avgsurfman/exif-swap"
+"Bug Tracker" = "https://github.com/avgsurfman/exif-swap/issues/"
