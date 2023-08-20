@@ -7,5 +7,5 @@ A simple utility used to either import or export creation time metadata and appe
 
 ## Installation:
 
-'pip install path/to/tarball'
+`pip install path/to/tarball`
 
