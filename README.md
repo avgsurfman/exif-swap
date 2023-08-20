@@ -5,3 +5,7 @@ A simple utility used to either import or export creation time metadata and appe
 
 `python -m exif_swap [mode] [options] [files]`
 
+## Installation:
+
+'pip install path/to/tarball'
+
