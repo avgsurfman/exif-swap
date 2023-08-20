@@ -3,3 +3,5 @@ A simple utility used to either import or export creation time metadata and appe
 
 ## Usage:
 
+`python -m exif_swap [mode] [options] [files]`
+
