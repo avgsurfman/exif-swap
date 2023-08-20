@@ -12,7 +12,9 @@ A simple utility used to either import or export creation time metadata and appe
 You might want to use python's virtual environment to install it, depending on your Operating System.
 
 `python -m venv /path/to/venv`
+
 ` . /path/to/venv/bin/activate`
+
 ` pip install /path/to/tarball` 
 
 
